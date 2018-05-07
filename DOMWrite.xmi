@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<uml:Model name="БухгалтерияПредприятия"
+    xmi:id="_gUAagE6xEei0gMHq39tLdA" xmi:version="2.1"
+    xmlns:uml="http://www.omg.org/spec/UML/20090901" xmlns:xmi="http://schema.omg.org/spec/XMI/2.1">
+    <packagedElement name="CatalogObject.Объекты"
+        xmi:id="_gUAahE6xEei0gMHq39tLdA" xmi:type="uml:Class">
+        <ownedAttribute isUnique="false" name="Ref" visibility="public"
+            xmi:id="_gUAah06xEei0gMHq39tLdA" xmi:type="uml:Property">
+            <type
+                href="http://schema.omg.org/spec/20090901/UML.xmi#String" xmi:type="uml:PrimitiveType"/>
+            <defaultValue value="89c79020-7215-4230-b0e4-3ec6ffbcd4ed"
+                xmi:id="_iKlKTE9kEeipSNTt5OS0cQ" xmi:type="uml:LiteralString"/>
+        </ownedAttribute>
+    </packagedElement>
+</uml:Model>
